@@ -4,7 +4,7 @@
 
 ![hydroplant](https://github.com/user-attachments/assets/02c9a047-954b-4735-886d-7389dd6671fb)
 
-[![Flutter](https://img.shields.io/badge/Flutter-v3.x-blue)](https://flutter.dev/)
+[![Flutter](https://img.shields.io/badge/Flutter-v1.0-blue)](https://flutter.dev/)
 [![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-orange)](https://www.hivemq.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
