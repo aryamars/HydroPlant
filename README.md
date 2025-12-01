@@ -63,8 +63,6 @@
 
 ## 📸 Tampilan Aplikasi
 
-**(Ganti tautan di bawah ini dengan tautan gambar atau GIF dari tampilan aplikasimu)**
-
 ![WhatsApp Image 2025-12-01 at 18 06 37](https://github.com/user-attachments/assets/de80a7c5-a347-4736-b223-9087dc4137e7)
 
 ---
