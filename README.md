@@ -71,7 +71,7 @@
 
 ## 🤝 Kontribusi
 
-Kontribusi pada proyek ini sangat dihargai. Jika kamu memiliki saran atau perbaikan, silakan buka **Pull Request**.
+Project ini dibuat karena keinginan pembuat membantu project rekannya.
 
 ---
 
@@ -80,4 +80,4 @@ Kontribusi pada proyek ini sangat dihargai. Jika kamu memiliki saran atau perbai
 Didistribusikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
 
 <br>
-Dibuat oleh **[Nama Lengkap atau Akun GitHub Kamu]**
+Dibuat oleh **[Aryawangi Rahmawanto]**
