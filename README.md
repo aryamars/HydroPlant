@@ -78,4 +78,4 @@ Project ini dibuat karena keinginan pembuat membantu project rekannya.
 Didistribusikan di bawah Lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
 
 <br>
-Dibuat oleh **Aryawangi Rahmawanto**
+Dibuat oleh Aryawangi Rahmawanto
