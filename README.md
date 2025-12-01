@@ -2,7 +2,7 @@
 
 > Sistem penyiram tanaman pintar berbasis IoT yang dibangun dengan **ESP32**, **MQTT**, dan **Flutter**. Memungkinkan pemantauan kelembaban tanah secara *real-time* dan kontrol pompa air nirkabel melalui aplikasi mobile.
 
-[hydroplant](https://github.com/user-attachments/assets/bc11ae95-dcde-411b-90fb-a2bc08d7e469)
+![hydroplant](https://github.com/user-attachments/assets/02c9a047-954b-4735-886d-7389dd6671fb)
 
 [![Flutter](https://img.shields.io/badge/Flutter-v3.x-blue)](https://flutter.dev/)
 [![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-orange)](https://www.hivemq.com/)
@@ -65,7 +65,7 @@
 
 **(Ganti tautan di bawah ini dengan tautan gambar atau GIF dari tampilan aplikasimu)**
 
-![Screenshot Aplikasi HydroPlant di Flutter](https://raw.githubusercontent.com/[Nama_Akun_GitHub_Kamu]/[Nama_Repo_Kamu]/main/assets/screenshots/app_dashboard.png)
+![WhatsApp Image 2025-12-01 at 18 06 37](https://github.com/user-attachments/assets/de80a7c5-a347-4736-b223-9087dc4137e7)
 
 ---
 
